@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-color-changer/static/css/main.5751e064.css",
+    "main.js": "/react-color-changer/static/js/main.b3e9ed05.js",
+    "index.html": "/react-color-changer/index.html",
+    "main.5751e064.css.map": "/react-color-changer/static/css/main.5751e064.css.map",
+    "main.b3e9ed05.js.map": "/react-color-changer/static/js/main.b3e9ed05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5751e064.css",
+    "static/js/main.b3e9ed05.js"
+  ]
+}
